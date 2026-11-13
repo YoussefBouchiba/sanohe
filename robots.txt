@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanohe.fr/sitemap.xml
